@@ -1,0 +1,2 @@
+variblesh="hola"
+print(variblesh)
