@@ -1,2 +1,0 @@
-variblesh="hola"
-print(variblesh)
